@@ -15,3 +15,4 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] as cronicas de narnia
 - [ ] Jogos Vorazes
+- [ ] Hobit
